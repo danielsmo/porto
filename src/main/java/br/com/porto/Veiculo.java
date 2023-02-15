@@ -15,7 +15,7 @@ import java.time.LocalDateTime;
 @ToString
 public class Veiculo {
 
-    private Long idVeiculo;
+    private Long idVeiculos;
     private String numeroRenavam;
 
   }
