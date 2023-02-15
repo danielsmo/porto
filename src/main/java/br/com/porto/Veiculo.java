@@ -20,11 +20,4 @@ public class Veiculo {
     private String placaVeiculo;
     private String uf;
 
-    @JsonFormat(pattern = "dd/MM/yyyy HH:mm:ss")
-    private LocalDateTime dataConsulta;
-
-    @JsonFormat(pattern = "dd/MM/yyyy")
-    private LocalDate dataCadastro;
-    private Integer statusMonitoramento;
-    private String descricaoStatusMonitoramento;
-}
+  }
