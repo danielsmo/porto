@@ -17,7 +17,5 @@ public class Veiculo {
 
     private Long idVeiculo;
     private String numeroRenavam;
-    private String placaVeiculo;
-    private String uf;
 
   }
